@@ -16,5 +16,3 @@ Create the MySQL database using `database/init_database.sql` and configure the c
 ## Credits
 
 - Modified and maintained for academic learning by **Amena Akter**.
-- Based on the original project by **Hosam Dyab**.
-- Licensed under the MIT License; see `LICENSE`.
