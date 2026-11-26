@@ -3,10 +3,6 @@
 
 A modern and user-friendly hospital management system built with Python and Tkinter. This application helps manage patients, doctors, appointments, and other hospital-related data efficiently.
 
-> Original project by [Hosam Dyab](https://github.com/HosamDyab). The original MIT license is preserved in this repository. Prepared for academic learning and portfolio presentation by Amena Akter.
-
-https://github.com/user-attachments/assets/667f4b0a-cd46-4b80-9a7f-9b4ee11b25ff
-
 ## Features
 
 - Modern and intuitive user interface
